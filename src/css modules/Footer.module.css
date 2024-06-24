@@ -1,0 +1,23 @@
+.amazonATag {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+}
+.dotInSpan {
+  color: white;
+  font-size: 1rem;
+  margin-bottom: 12px;
+  background-color: none;
+  text-decoration: none;
+  outline: none;
+  border: none;
+}
+
+.searchIcon {
+  font-size: 1.5rem;
+  background-color: white;
+  color: black;
+  padding: 7px;
+  border-radius: 4px 0 0 4px;
+}
